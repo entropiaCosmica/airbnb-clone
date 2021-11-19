@@ -21,7 +21,7 @@ function Footer() {
       <div className="space-y-4 text-xs text-gray-800">
         <h5 className="font-bold">HOST</h5>
         <p>Share your space</p>
-        <p>AirCover: protection for hosts</p>
+        <p>AirCover</p>
         <p>Resources</p>
         <p>Visit the forum</p>
         <p>How to responsibly bring host services</p>
